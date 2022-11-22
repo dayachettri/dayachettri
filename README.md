@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **JavaScript, Linux, Git**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **Dayachettri072@gmail.com**
 
-- ⚡ Fun fact **I a hooman...**
+<!-- - ⚡ Fun fact **I a hooman...**/ -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
