@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://daya-dev.netlify.app &middot; dayachettri072@gmail.com**
 
-- ⚡ Fun fact **I a hooman...**/
+<!-- - ⚡ Fun fact **I a hooman...** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
