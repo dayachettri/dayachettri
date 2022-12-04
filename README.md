@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **Dayachettri072@gmail.com**
+- 📫 How to reach me **daya-dev.netlify.app &middot; Dayachettri072@gmail.com**
 
-<!-- - ⚡ Fun fact **I a hooman...**/ -->
+- ⚡ Fun fact **I a hooman...**/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
