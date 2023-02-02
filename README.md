@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🐶 About Me:
 Hi im a web developer looking for exciting opportunities to work on javascript and react.
 
 # 💻 Tech Stack:
