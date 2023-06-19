@@ -7,6 +7,6 @@ Hey there! I'm Daya Chettri, a frontend developer from Manali, a beautiful hill 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dayachettri&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dayachettri&theme=blueberry&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
