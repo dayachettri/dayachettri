@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Daya Chettri, a frontend developer from Manali, a beautiful hill station. Welcome to my GitHub repository, where I showcase stunning frontend applications crafted with the latest technologies. Let's revolutionize the web together, one project at a time. Enjoy the journey!
+Hey there! I'm Daya Chettri, a SDE - 1 from Manali, a beautiful hill station. Welcome to my GitHub repository, where I showcase stunning frontend applications crafted with the latest technologies. Let's revolutionize the web together, one project at a time. Enjoy the journey!
 
 
 # 💻 Tech Stack: 
